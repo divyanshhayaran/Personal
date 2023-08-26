@@ -45,7 +45,7 @@ p1 {
 .new {
   color: blueviolet;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  margin-left: 19%;
+  text-align: center;
 }
 
 .size {
@@ -65,26 +65,36 @@ div {
   margin-left: 5%;
 }
 
-.flag {
-  margin-left: 14%;
-  background-color: orange;
-  height: 100px;
-  width: 500px;
-}
-.flag2 {
-  background-color: white;
-  height: 100px;
-  width: 500px;
-  margin-left: 14%;
-}
-
-.flag3 {
-  background-color: green;
-  height: 100px;
-  width: 500px;
-  margin-left: 14%;
-}
 .india {
   height: 100%;
   margin-left: 40%;
+}
+
+.orange {
+  height: 100px;
+  width: 500px;
+  background-color: orange;
+  margin: 0 auto;
+}
+.white {
+  height: 100px;
+  width: 500px;
+  background-color: white;
+  margin: 0 auto;
+}
+.green {
+  height: 100px;
+  width: 500px;
+  background-color: green;
+  margin: 0 auto;
+}
+.jaihind {
+  color: orange;
+  text-align: center;
+}
+span {
+  color: white;
+}
+.do {
+  color: green;
 }
